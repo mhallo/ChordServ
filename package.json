@@ -1,0 +1,14 @@
+{
+  "name": "ChordServ",
+  "version": "0.0.1",
+  "description": "A basic server to respond with Guitar Chords",
+  "main": "index.js",
+  "scripts": {
+    "app": "node server"
+  },
+  "author": "Matt Hallowell",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "2.10.0"
+  }
+}
